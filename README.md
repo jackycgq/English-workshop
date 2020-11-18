@@ -32,7 +32,23 @@
 |询问对方是否理解|Are we clear?/Does that make sense?|
 |二手房|pre-owned houses|
 |i think的替代|from my perspective/in my humble opinion|
-|||
+|原来如此|so that's why/that explain it |
+|interesting的替代|terrific|
+|老司机|old hand/insider|
+|老员工|veteran/senior stuff|
+|老顾客|regular customer/regulars|
+|皮肤真白|your skin looks very fair|
+|一起出去玩|let's hang out|
+|看这里|look at xx /look this way|
+|当然 of course（生硬）的礼貌说法|sure/Certainly/Absolutely|
+|让我们开个会吧|Let's hold/call/set up a meeting|
+|斑马线|crosswalk|
+|AA制|go dutch/split the bill|
+|我支持你|I am behind you/ I am on your side|
+|迟到5分钟|i am 5 mins late|
+|送你回家/下楼|walk/drive(开车送) you home/downstairs|
+|母校|Alma Mater|
+|我喜欢这里 I like here（❌）|i like it here（✅）|
 |会议中信号不好的问题常用表达|connections is dropped/videos seems to be lagging/ my signal is bad/you are breaking up(断断续续)|
 |命中注定，八字上写好的|written in the stars|
 
@@ -46,3 +62,5 @@
 ||dont talk the talk if you cant walk the walk/put up or shut up/Let's see you do better|
 ||i dont speak English very well, but I am still improving|
 ||you'd better（语气带命令口吻），委婉 what about /maybe yo can |
+|你还年轻呢|you dont look your age/you are still young.错误表达： you look so young|
+|||
