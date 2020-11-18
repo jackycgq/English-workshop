@@ -1,4 +1,6 @@
 # English-workshop
+CHINESE = Charming+honest+intelligent+noble+excellent+smart+elegant
+
 ## 常用词汇表达
 |   中文  | 英文  |
 |  ----  | ----  |
@@ -48,19 +50,34 @@
 |迟到5分钟|i am 5 mins late|
 |送你回家/下楼|walk/drive(开车送) you home/downstairs|
 |母校|Alma Mater|
-|我喜欢这里 I like here（❌）|i like it here（✅）|
-|会议中信号不好的问题常用表达|connections is dropped/videos seems to be lagging/ my signal is bad/you are breaking up(断断续续)|
 |命中注定，八字上写好的|written in the stars|
+|母公司|parent company|
+|我是的你的粉丝|i am a big fan of yours|
+|爬山|go hiking|
+|出去吃饭|let's eat out/let's go out to eat|
+|i服了u的地道英语表达|You blew me away/i surrender/i am speechless/i've got ot hand it to you|
+|身材很棒|you are in a good shape/you are well proportioned/you are well built|
+|me too的全称| that applies to me,too|
+|银行卡密码|PIN Number/PIN（纯数字之类）|
+|56%度|it's 56% alcohol|
+|价格合适|resonable/right|
+|刷手机|swipe your phone|
+|刷卡|swipe my card|
+|追剧|Binge-watching|
+|新闻刷屏|flooding your screen/broke the Internet|
+||you'd better（语气带命令口吻），委婉 what about /maybe yo can |
+
 
 
 ## 常用句子表达
 |   中文  | 英文  |
 |  ----  | ----  |
+|我喜欢这里 I like here（❌）|i like it here（✅）|
+|会议中信号不好的问题常用表达|connections is dropped/videos seems to be lagging/ my signal is bad/you are breaking up(断断续续)|
 | 漏掉的内容重提  | Let me just add one more thing/Let me return to an earlier point breifly|
 |   演讲中总结| To Wrap up, let's remind ourseleves of why this should matter to everyone here/Let's review  the key point from this seesion |
-|   |what strength are youe glasses|
-||dont talk the talk if you cant walk the walk/put up or shut up/Let's see you do better|
-||i dont speak English very well, but I am still improving|
-||you'd better（语气带命令口吻），委婉 what about /maybe yo can |
+|  眼镜度数是多少？ |what strength are youe glasses|
+|you can you up no can no be be的地道英语表达|dont talk the talk if you cant walk the walk/put up or shut up/Let's see you do better|
+|我的英语不好的地道说法|i dont speak English very well, but I am still improving|
 |你还年轻呢|you dont look your age/you are still young.错误表达： you look so young|
-|||
+
