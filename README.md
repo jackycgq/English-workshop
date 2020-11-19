@@ -5,8 +5,8 @@ CHINESE = Charming+honest+intelligent+noble+excellent+smart+elegant
 |   中文  | 英文  |
 |  ----  | ----  |
 | 大约的报价/数字  | a ballpark costing/figure |
-|   |dress warm /Bundle up |
-||go to the office/work|
+| 穿暖和点  |dress warm /Bundle up |
+|去公司|go to the office/work|
 |药效减退|wear off|
 |下一张幻灯片|go to the next slide|
 |体检|check-up|
@@ -14,13 +14,13 @@ CHINESE = Charming+honest+intelligent+noble+excellent+smart+elegant
 |行动过早，操之过急|jump the gun|
 |把事情搞砸|rock the boat|
 |无能为力|my hands are tired|
-||break a leg|
+|祝你好运|break a leg|
 |洗耳恭听|I am all ears|
 |别丧气，别气馁|keep your chin up|
 |累了|wacked/beat/exhausted/bushed/spent|
 |good|impressive/Brilliant/outstanding/excellent/fantabulous|
 |thank you |appreciate it/ thanks a bundle|
-||run two laps|
+|跑两圈|run two laps|
 |结账|Excuse me ,check please|
 |汽车调头|make a U turn |
 |运费到付|freight collect|
@@ -65,7 +65,7 @@ CHINESE = Charming+honest+intelligent+noble+excellent+smart+elegant
 |刷卡|swipe my card|
 |追剧|Binge-watching|
 |新闻刷屏|flooding your screen/broke the Internet|
-||you'd better（语气带命令口吻），委婉 what about /maybe yo can |
+|you'd better（语气带命令口吻）的委婉说法| what about /maybe yo can |
 
 
 
