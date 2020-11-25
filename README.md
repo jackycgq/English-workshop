@@ -6,6 +6,11 @@ CHINESE = Charming+honest+intelligent+noble+excellent+smart+elegant
 |  ----  | ----  |
 | 大约的报价/数字  | a ballpark costing/figure |
 | 穿暖和点  |dress warm /Bundle up |
+| 借个火  | do you have a light?/Have you got a light?|
+|乘坐电梯能等我下吗|Can you hold the door?I am getting off basement floor./Can you hit the number 5 for me please?|
+|请开始你的表演|The stage is yours now|
+|笑点在哪儿|What's so funny? I don't get it|
+|看完眼色行事|Let's play by ear|
 |去公司|go to the office/work|
 |药效减退|wear off|
 |下一张幻灯片|go to the next slide|
