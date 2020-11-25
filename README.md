@@ -5,6 +5,14 @@ CHINESE = Charming+honest+intelligent+noble+excellent+smart+elegant
 |   中文  | 英文  |
 |  ----  | ----  |
 | 大约的报价/数字  | a ballpark costing/figure |
+| 旧版本  |  legacy versions |
+|坚持，遵守，附着于|adhere to|
+|结果导向的|result oriented|
+|100%白帽方法遵守谷歌更新的站长指南|100% White Hat Method Adhering to Google's Updated Webmaster Guidelines|
+|这只是露出的冰山一角（你看到的小迹象，实际上是只是一个更大的问题的一小部分）|It’s just the tip of the iceberg.|
+|应变方法；变通方法workaround  /我可以再建立一个应急系统。|I can create a workaround|
+| 细粒度的权限控制  |   fine-grained authority control/ 这包括细粒度的和粗粒度的服务，用于添加、更新、查询和搜索产品。This includes a set of fine-grained and coarse-grained services for adding, updating, inquiring, and searching products.|
+|副作用| side effect |
 | 穿暖和点  |dress warm /Bundle up |
 | 借个火  | do you have a light?/Have you got a light?|
 |乘坐电梯能等我下吗|Can you hold the door?I am getting off basement floor./Can you hit the number 5 for me please?|
@@ -78,6 +86,7 @@ CHINESE = Charming+honest+intelligent+noble+excellent+smart+elegant
 |   中文  | 英文  |
 |  ----  | ----  |
 |我喜欢这里 I like here（❌）|i like it here（✅）|
+|为客户创造价值是我们的唯一目标，所有一切都是围绕着它|Creating value for clients is our sole objective and everything else revolves around it|
 |会议中信号不好的问题常用表达|connections is dropped/videos seems to be lagging/ my signal is bad/you are breaking up(断断续续)|
 | 漏掉的内容重提  | Let me just add one more thing/Let me return to an earlier point breifly|
 |   演讲中总结| To Wrap up, let's remind ourseleves of why this should matter to everyone here/Let's review  the key point from this seesion |
