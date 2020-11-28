@@ -10,7 +10,8 @@ As shown in my proposal, more than 300 working days is needed over the six month
 Three years ago,Rose had two full-time temporary employees to aid her in Beijing renovation project, which is smaller than this one.
 
 ### Solutions
-**There are three options for you to consider **to gain the needed staff:
+
+There are three options for you to consider to gain the needed staff:
 
 1. We pick three staff with administration experience within DB and assign part of their workload to this project.This cost the company less,since there is no need to pay for **recruiters**(猎头).
 
