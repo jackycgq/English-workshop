@@ -15,8 +15,8 @@ Three years ago,Rose had two full-time temporary employees to aid her in Beijing
 
 1. We pick three staff with administration experience within DB and assign part of their workload to this project.This cost the company less,since there is no need to pay for **recruiters**(猎头).
 
-2.We hire two new full-time employees on a six-month contract **from an external pool of candidates.** This ensures the current staff keeping their regular job duties.
+2. We hire two new full-time employees on a six-month contract **from an external pool of candidates.** This ensures the current staff keeping their regular job duties.
 
-3.We combine both ways: get two part-time employees from inside and one full-time outside.
+3. We combine both ways: get two part-time employees from inside and one full-time outside.
 
 Shall we start the project on my suggestion as a test? **We can adjust the details as project envolves.** Thank you for your consideration!
