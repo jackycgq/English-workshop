@@ -1,6 +1,6 @@
 Dear Lester,
 
-Thank you for trusting me to lead Shanghai office renovation project. The strategic assignment will **engage my talent ** of program management in administration field. In order to successfully complete the project,I need addtional staff.
+Thank you for trusting me to lead Shanghai office renovation project. The strategic assignment will **engage my talent** of program management in administration field. In order to successfully complete the project,I need addtional staff.
 
 ### Background
 As you know, Rose is on sick leave and Mary has left the position of Administration Supervisor in Shanghai office. I only have Maggie in Shanghai, **whose hands are already full**. Besides,I can not drop my duties as Administration Supervisor for Guangzhou Office. Therefore,we do not have **one single full-time employee** on this important project.
@@ -11,7 +11,7 @@ Three years ago,Rose had two full-time temporary employees to aid her in Beijing
 
 ### Solutions
 
-There are three options for you to consider to gain the needed staff:
+**There are three options for you to consider** to gain the needed staff:
 
 1. We pick three staff with administration experience within DB and assign part of their workload to this project.This cost the company less,since there is no need to pay for **recruiters**(猎头).
 
