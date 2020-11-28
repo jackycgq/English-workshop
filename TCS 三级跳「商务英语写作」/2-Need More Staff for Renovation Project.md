@@ -19,4 +19,4 @@ Three years ago,Rose had two full-time temporary employees to aid her in Beijing
 
 3. We combine both ways: get two part-time employees from inside and one full-time outside.
 
-Shall we start the project on my suggestion as a test? **We can adjust the details as project envolves.** Thank you for your consideration!
+Shall we start the project on my suggestion as a test? **We can adjust the details as the project envolves.** Thank you for your consideration!
