@@ -15,5 +15,5 @@ Here is my progress report for the week of July 15 to July 19,2013.
 - Purchase a new industrial floor polisher. I had hoped to complete this task by July 23, but Finance Deparment has not paid the invoice, which would delay the delivery of the product.
 I will remind Finance Department the first thing next Monday.
 - Install the new energy-saving lightbulls in all working areas.Estimated completion date: July 24th,2013. I will apply for work hours adjustment because this task can only be done during after-work hours.
-- Organize the
-### To
+- Organize the training course of Effective Communication in Workplace.The introduction of the trainer and syllabus are attched for your approval.
+
