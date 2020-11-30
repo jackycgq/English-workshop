@@ -2,7 +2,7 @@ Dear all,
 
 I am writing to ask for your cooperation on our working plan. I believe this temporary moving will **significantly** enhance the renovation speed and gurantee that you enjoy a better working environment sooner.
 
-For many years, our Shanghai branch has bee **operating with one hand tied behind us**. Our space is small and our office shabby. Renovating the branch would prepare us for the DB launch of "Focus on China" initiative. This would also reduce, **if not eliminate**(如果不能排除 ), the need for support from overseas branches.
+For many years, our Shanghai branch has bee **operating with one hand tied behind us**（捉襟见肘，很困难运作）. Our space is small and our office shabby. Renovating the branch would prepare us for the DB launch of "Focus on China" initiative. This would also reduce, **if not eliminate**(如果不能排除 ), the need for support from overseas branches.
 
 Here are the details of the moving:
 
@@ -11,7 +11,7 @@ Here are the details of the moving:
 2. Obtain the packing materials from the administrative assitant.
 3. Pack your files/desk/equipment/personal items, and mark your name.
 4. Put the packages that contain sensitive itmes like fragile or delicate machinery to the appoited area.
-5. **Settle in** the new office after moving the moving company has completed their job
+5. **Settle in** （调整适应）the new office after moving the moving company has completed their job
 
 
 ##Time 
