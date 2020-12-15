@@ -9,7 +9,15 @@ I am quite ambitious ,creative and enthusiastic. I like to meet targets and goal
 And I have led the project teams to achieve defined milestones and deliverables successfully in the past few years which has witnessed my growth of skills in business requriements analysis, tech lead, time management,product design communicating skills, teamwork etc.
 Lastly, I think that benefits me to fit the role of business analyst and hope I can match the requirements of the position as well.
 ## 3.What are the core competencies of a business analyst?
-
+A business analyst must have exceptional communication and negotiation skills.Analytical thinking, problem-solving, and decision making are also vital attributes. 
+A business analyst should have industry knowledge, business process management skills along with technical proficiency.
+## 4.List some of skills and tools used by Business Analysts.
+* Technical skills/tools, MS Office Suite (PPT,Word,Excel,Project,etc),Axure for prototype design,Google Docs,Trello and Jira to track the issues and project process,SQL skills and other BI tools to assit me to fulfill the analytics requriements.
+* Non-Technical/business analysis skills- Documentation, requirements specification,Business process management ,etc.
+## 5.Do you have any technical skills ,can you list your database skills or business intelligence skills?
+I have SQL skills related with relational database and NoSQL databases. While due to limitation of some projects, I dont have much pratical BI skills which I am still improving on now.
+## 6.What is User case?
+A user case is a diagrammatic representation of a system which describe how a user uses a system to accomplish a goal.It is an integral part of software  modeling technique which defines the target features and resolution of any possible errors which a user may encounter.
 
 
 
