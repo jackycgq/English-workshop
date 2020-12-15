@@ -44,6 +44,42 @@ The critical aspects of an SRS are ：
 * Accpetance Criteria
 
 ## 13.What is BRD ？How is it different from SRS？
+BRD is an abbreviation for Business Requirement Document.It is a formal contract between the organization and the client for the development of the specific product.
+* BRD is a functional specification of the software whereas SRS is both BA created it after direct interactio with clients.
+* BRD is created by a BA after their direct interaction with clients, whereas SRS is designed based on technical expertise and needs.
+* SRS is derived from BRD.
+
+## 14.What do you understand by requirement? Can you differentiate between requirements and needs?
+A requirement is a targeted solution and representation to achieve specific business objectives.Stakeholders evaluate the project based on set conditions/requirements before its implementaion.All the elements are correctly documented for reference purposes.Needs are the high-level representaion of the terms and the result.
+
+
+## 15.Whad do you know about Kanban ?
+Kanban is a tool which helps the agile team to visually guide the manage the work as it progresses through the process.Besides,it works as a scheduling system in Agile just-in-time production.The Kanban board is used to describe the current devlepment status.
+## 16.What is the purpose the Requirment Traceability Matrix?
+It records all the requirments given by a client and ensures that all the necessities are met.
+## 17.What is business modeling?
+Business modeling is a step-by-step approach for indentifying the value proposition for operating th business.
+The key attributes of business modeling to develop a strategic plan for an organization are:
+* Vision
+* Mission
+* Objectives
+* Strategies
+* Action Plan
+
+## 18.What is the project life cycle?which models will you employ and why?
+## 19.What do yo understand by GAP analysis, and what are the types of gaps that can occur duing an analysis？
+Gap Analysis means the analysis of the differencies between the functionalities of an existing and the targeted system.The gap means changes that are required to accomplish the proposed  result.
+* Profit Gap is the change between the actual and estimated profit of a company.
+* Manpower gap is the change between the actual and required workforce strength in a company.
+* Performance gap is the differences between the expected and actual performances.
+* Market Gap is the varitation between estimated and actual sales.
+## 20.
+
+
+
+
+
+
 
 
  
