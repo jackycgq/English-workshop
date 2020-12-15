@@ -25,5 +25,5 @@ Yes. Because a business analyst understands the overall system requirements and 
 
 These are the set of measurable services and products delivered to the end customer after project completion. It is the outcome of the project.
 ## 9.How do you keep yourself updated about the latest business trends and knowledge?
-Usually I would attend some events/forums/symposiums/conferences to connect with the business community. In
+Usually I would attend some events/forums/symposiums/conferences to connect with the business community. In that way,i can obtain related knowledge and references 
  
