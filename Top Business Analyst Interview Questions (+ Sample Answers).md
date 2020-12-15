@@ -18,6 +18,7 @@ A business analyst should have industry knowledge, business process management s
 I have SQL skills related with relational database and NoSQL databases. While due to limitation of some projects, I dont have much pratical BI skills which I am still improving on now.
 ## 6.What is User case?
 A user case is a diagrammatic representation of a system which describe how a user uses a system to accomplish a goal.It is an integral part of software  modeling technique which defines the target features and resolution of any possible errors which a user may encounter.
+## 7.Do you think a business
 
 
 
