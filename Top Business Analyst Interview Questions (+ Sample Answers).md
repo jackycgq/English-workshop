@@ -18,7 +18,12 @@ A business analyst should have industry knowledge, business process management s
 I have SQL skills related with relational database and NoSQL databases. While due to limitation of some projects, I dont have much pratical BI skills which I am still improving on now.
 ## 6.What is User case?
 A user case is a diagrammatic representation of a system which describe how a user uses a system to accomplish a goal.It is an integral part of software  modeling technique which defines the target features and resolution of any possible errors which a user may encounter.
-## 7.Do you think a business
+## 7.Do you think a business analyst should be involved in testing?
+Yes. Because a business analyst understands the overall system requirements and challenges associated with it very well. Hence, he can be instrumental during the testing phase to run it appropriately and resolve any system related query.
 
+## 8.What do you mean by project deliverables?
 
-
+These are the set of measurable services and products delivered to the end customer after project completion. It is the outcome of the project.
+## 9.How do you keep yourself updated about the latest business trends and knowledge?
+Usually I would attend some events/forums/symposiums/conferences to connect with the business community. In
+ 
