@@ -25,5 +25,25 @@ Yes. Because a business analyst understands the overall system requirements and 
 
 These are the set of measurable services and products delivered to the end customer after project completion. It is the outcome of the project.
 ## 9.How do you keep yourself updated about the latest business trends and knowledge?
-Usually I would attend some events/forums/symposiums/conferences to connect with the business community. In that way,i can obtain related knowledge and references 
+Usually I would attend some events/forums/symposiums/conferences to connect with the business community. In that way,i can obtain related knowledge and references for some specific industry.
+## 10.What are the various stages of a business project?
+The main stages of any business or IT project are Initiation, Planning, Execution, Monitoring, and Closure.
+## 11.Explain UML and its uses?
+UML or Unified Modeling Language is a general-purpose,developmental modeling language that provides a standard way to envision the system.
+It is used to rationalize the system behaviour for the detection and elimination of errors/bottlenecks.
+## 12.Can you explain SRS and its key elements?
+SRS stands for System or Software Requirements Specification.It is a set of documents describing the features of a software application or system.
+It inlcudes various elements required by the stakeholders and customers to convince the end-users.
+
+The critical aspects of an SRS are ：
+* Scope of Work(SOW)
+* Non-functional and functional requirements
+* Data Model
+* Dependencies
+* Assupmption and Constraints
+* Accpetance Criteria
+
+## 13.What is BRD ？How is it different from SRS？
+
+
  
