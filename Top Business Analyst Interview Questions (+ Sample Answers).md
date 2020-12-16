@@ -73,7 +73,9 @@ Gap Analysis means the analysis of the differencies between the functionalities 
 * Manpower gap is the change between the actual and required workforce strength in a company.
 * Performance gap is the differences between the expected and actual performances.
 * Market Gap is the varitation between estimated and actual sales.
-## 20.
+## 20. What strategies will you follow to design a user case?
+A
+
 
 
 
