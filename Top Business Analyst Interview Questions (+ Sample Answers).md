@@ -74,7 +74,13 @@ Gap Analysis means the analysis of the differencies between the functionalities 
 * Performance gap is the differences between the expected and actual performances.
 * Market Gap is the varitation between estimated and actual sales.
 ## 20. What strategies will you follow to design a user case?
-A
+A user case should be concise,well-defined, and correctly documented.
+The strategies or approaches in designing user cases are :
+* The first phase is the users' indentification to create a role-profile for every user category and 
+recoginition of goals associated with every role.
+* The 2nd phase deals with the stucture and creation of use cases by capturing both functional and non-functional
+requriements.Include user case diagrams and user interface details.
+* The 3rd phase is reviewing and validating the user cases.
 
 
 
