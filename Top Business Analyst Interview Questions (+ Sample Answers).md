@@ -116,10 +116,26 @@ Some requirement elicication techniques are :
 The most important aspect of analytical reporting is the ability to solve problems and make decisions based on facts.Attempting to make decisions based on uninformed guesses or assumptions can be problematic-analytical reporting provides tangible information with which to creat strategy and direction.
 ## 25.Descibe your familiarity with SQL queries.
 There are four parts to an SQL statement. The DDL, or the Data Definition Language, is used for defining data structure. The DML, or Data Manipulation Language, is used for inserting, deleting and modifying data. The DCL, or Data Control Language, is used to control access to data stored in the database. Finally, the TCL, or Transactional Control Language, is used to organize data adjusted by the DML. I have used SQL statements to determine which of my client’s customers are purchasing which products, which has helped them make important decisions about future product lines. This work has made them a repeat customer three years running.
-## 26.
+## 26.What are personas, and how they are useful in user-centred design methodology?
+Personas are created in place of real users to understand their behavioral patterns in different scenarios.In user-centered design methdology, a system is developed,keeping the viewpoint of end-users in mind.Personas help create such systems.
+## 27.What tools do you consider the most important for a BA to do their jobs well?
+I commnly use tools like Word,Excel,PowerPoint,MS Visio and retional tools. I also have advanced SQL Skills -using skill is helpful when I need to analyze items like customer purchases that would overwhelm Excel.
+## 28.Describe how you typically approach a project?
+Firstly, I listen to what the client needs, paying attention to what they articulate as their goals for the project.I then take a deeper look into our data to figure out how t guide them towards sucess or how to change the way they are looking at their goals to move forward in a more productive way.Of course, every project and every client requires something new, so I always make sure to consider the specification situation instead of automatically imposing a one-size-to-fits-all soltution.
+## 29.How can you manage the post-implementation and pre-implementation problems of a project?
+You can answer this by briefly explaining both the problems. The problems that declare their presence before the project implementation are called pre-implementation problems. The difficulties arising after the project implementation are called post-implementation problems, and most of the concerns fall in this category.
+
+After that, you can explain that a business analyst cannot overcome all these problems but can limit them up to the maximum extent within a minimum time frame.
 
 
+## 30.During the development of a system, how do you manage frequently changing customers’ requirements?
 
+It is one of the most frequently asked business analytic interview questions. The first task of a business analyst is to draft a document stating the number of changes that are allowed, and after a certain point, no amendments will be accepted. It is vital to get this document signed by the user.
 
+In case the change required is accepted, make sure to note down all the changes and find out their overall impact on the project. Calculate the timeline, cost, and resources needed for this change.
+
+## 31.Name two diagrams you use as a business analyst, and describe how they impact your work.
+
+Two diagrams I prefer using are Activity Diagrams and Use Case Diagrams. Activity Diagrams show the diverse activities that take place across various departments. I use Activity Diagrams to show who interacts with a system as well as the primary goals they achieve with it. I find Use Case Diagrams to be very useful when I need to visualize the functional requirements of a given system so I can make smart choices when it comes to design and figuring out development priorities.
 
  
