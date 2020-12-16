@@ -81,10 +81,42 @@ recoginition of goals associated with every role.
 * The 2nd phase deals with the stucture and creation of use cases by capturing both functional and non-functional
 requriements.Include user case diagrams and user interface details.
 * The 3rd phase is reviewing and validating the user cases.
+## 21.Explain your typical work tactic for a project?
+To answer this question, you can explain the general steps you follow with standard deliverables. For example, if you have managed the planning phase of a project, you could mention deliverables like a requirements management plan, work breakdown structure, or a communication plan.
 
+Each business faces different situations and has distinct needs, but these fundamental steps are essential to achive a task successfully.
+* Firstly, you must clarify your role and determine th stakeholder's perspective in the project. You should define primary objectives along with reconciling the expectations conflict among stakeholders.
+* Create a work plan listing steps,timelines and deliverables.
+* Define actionable and concise requirements.
+* Ensure technical implementations ,as many solutions require the support of IT teams.
+* Create documentaion and train end-users to implement the solution
+* Finally,Asess the value of the project.Did it work or any follow-ups are needed?
 
+## 22.What documents are needed by a business analyst? which docs have u prepared in prev works?
+A project life cycle users many documents, and it depends on the utilization process of a business analyst.
+* Initiation document
+* System requirements specification document
+* Business requirements document
+* Functional requirement document
+* Requirements traceability matrix
+* Use case specification document
+* Change request document
+* Gap Analysis document
+## 23.What is the requirment elicitation?Have you ever participated in these elicitation meetings?
+It is a technique to gather information from stakeholders and users.It invovles approaches or strategies t collaborate with clients or users directly.
+Some requirement elicication techniques are :
+* Document Analysis
+* Interviews
+* Prototyping
+* Brainstroming
+* Workshops and observations
+* Surveys/Questionnaire
 
-
+## 24.What is the most important aspect of analytical reporting？
+The most important aspect of analytical reporting is the ability to solve problems and make decisions based on facts.Attempting to make decisions based on uninformed guesses or assumptions can be problematic-analytical reporting provides tangible information with which to creat strategy and direction.
+## 25.Descibe your familiarity with SQL queries.
+There are four parts to an SQL statement. The DDL, or the Data Definition Language, is used for defining data structure. The DML, or Data Manipulation Language, is used for inserting, deleting and modifying data. The DCL, or Data Control Language, is used to control access to data stored in the database. Finally, the TCL, or Transactional Control Language, is used to organize data adjusted by the DML. I have used SQL statements to determine which of my client’s customers are purchasing which products, which has helped them make important decisions about future product lines. This work has made them a repeat customer three years running.
+## 26.
 
 
 
